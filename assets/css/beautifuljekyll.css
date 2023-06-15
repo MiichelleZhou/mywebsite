@@ -11,8 +11,8 @@ html {
 }
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 1.125rem;
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-size: 1rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
@@ -27,21 +27,21 @@ p {
   margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: Open Sans, Georgia, Georgia, Arial, Arial;
+  font-family: Georgia, Georgia, Georgia, Arial, Arial;
   font-weight: 800;
   line-height: 1.1;
 }
 h1 {
-  font-size: 2.25rem;
+  font-size: 1.25rem;
 }
 h2 {
-  font-size: 1.875rem;
+  font-size: 1rem;
 }
 h3 {
-  font-size: 1.5rem;
+  font-size: 0.8rem;
 }
 h4 {
-  font-size: 1.125rem;
+  font-size: 1.8rem;
 }
 h1, h2, h3, h4 {
   margin-top: 1.25rem;
