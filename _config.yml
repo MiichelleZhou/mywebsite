@@ -20,10 +20,10 @@ author: Hi! This is Michelle.
 ###############################################
 
 navbar-links:
-  CV: "resume":
+  CV: "aboutme":
   Research:
-    - NLP & LLM: "nlp"
-    - Statistics & Machine Learining: "ml"
+    - NLP & LLM: nlp.md
+    - Statistics & Machine Learining: ml.md
   Projects: "https://deanattali.com"
 
 ################
