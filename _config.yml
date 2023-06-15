@@ -20,11 +20,11 @@ author: Sihan(Michelle) Zhou
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  CV: resume.pdf
+  Research:
+    - NLP & LLM: "https://beautifuljekyll.com"
+    - Clustering Algorithm: "https://www.markdowntutorial.com/"
+  Projects: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -125,7 +125,7 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#6E85B7"
-navbar-text-col: "#F8F9D7"
+navbar-text-col: "#FFFFFF"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
@@ -139,8 +139,8 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
+# navbar-img: "/assets/img/bgimage.png"
+# footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
