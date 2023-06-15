@@ -20,7 +20,7 @@ author: Sihan(Michelle) Zhou
 ###############################################
 
 navbar-links:
-  CV: resume.pdf
+  CV: resume
   Research:
     - NLP & LLM: nlp.md
     - Statistics & Machine Learining: ml.md
