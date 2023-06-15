@@ -676,18 +676,18 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 1.125rem;
+  font-size: 2rem;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
-  font-size: 2.1875rem;
+  font-size: 2rem;
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 1.6875rem;
+  font-size: 0.6875rem;
   line-height: 1.1;
   display: block;
-  font-family: 'Helvetica', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Helvetica, 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 0.625rem 0 0;
 }
