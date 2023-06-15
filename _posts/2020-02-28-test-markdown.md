@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Peer Review Paper] A Novel Spatial Clustering Method based on Delaunay Triangulation and Kernel Density
+title: Peer Review Paper "A Novel Spatial Clustering Method based on Delaunay Triangulation and Kernel Density"
 subtitle: Sihan Zhou, Guannan Wang
 tags: [clustering, triangulation, KDE]
 ---
