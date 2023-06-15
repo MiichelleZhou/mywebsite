@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Published "The Inverse Characteristic Polynomial Problem for Graphs over Finite Fields"
+title: Published Paper "The Inverse Characteristic Polynomial Problem for Graphs over Finite Fields"
 subtitle: Charles R. Johnson, Greyson C. Wesley, Xiaoyu Lin, Xiwen Liu and Sihan Zhou
 tags: [matrix, characteristic polynomial]
 ---
