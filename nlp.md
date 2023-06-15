@@ -7,6 +7,9 @@ title: NLP Application
 
 - **GPU-accelerated Guided Source Separation for Meeting Transcription**  
   **Desh Raj**, Daniel Povey, Sanjeev Khudanpur  
+
+- **Microsoft Certified: Azure Data Scientist**  
+  **Desh Raj**, Daniel Povey, Sanjeev Khudanpur  
   
 
 - **Anchored Speech Recognition using Neural Transducers**  
@@ -22,4 +25,10 @@ title: NLP Application
 
 - **Low-Latency Speech Separation Guided Diarization for Telephone Conversations**  
   Giovanni Morrone, Samuele Cornell, **Desh Raj**, Luca Serafini, Enrico Zovato, Alessio Brutti, Stefano Squartini  
+
+**2021**
+
+- **Low-Latency Speech Separation Guided Diarization for Telephone Conversations**  
+  Giovanni Morrone, Samuele Cornell, **Desh Raj**, Luca Serafini, Enrico Zovato, Alessio Brutti, Stefano Squartini  
+
 
