@@ -20,7 +20,7 @@ author: Hi! This is Michelle.
 ###############################################
 
 navbar-links:
-  CV: "resume:
+  CV: "resume":
   Research:
     - NLP & LLM: "nlp"
     - Statistics & Machine Learining: "ml"
