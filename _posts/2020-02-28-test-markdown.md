@@ -3,9 +3,7 @@ layout: post
 title: Peer-review paper: A Novel Spatial Clustering Method based on Delaunay Triangulation and Kernel Density
 subtitle: Sihan Zhou, Guannan Wang
 gh-repo: daattali/beautiful-jekyll
-<!-- gh-badge: [star, fork, follow] -->
-tags: [test]
-comments: false
+tags: [clustering, triangulation]
 ---
 
 
