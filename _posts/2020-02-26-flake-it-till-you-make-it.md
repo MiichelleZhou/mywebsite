@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Published ""
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Published "The Inverse Characteristic Polynomial Problem for Graphs over Finite Fields"
+subtitle: Charles R. Johnson, Greyson C. Wesley, Xiaoyu Lin, Xiwen Liu and Sihan Zhou
 tags: [matrix, characteristic polynomial]
 ---
 
