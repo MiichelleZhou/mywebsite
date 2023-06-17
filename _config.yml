@@ -23,7 +23,7 @@ navbar-links:
   CV: "resume"
   Research:
     - NLP & LLM: "nlp"
-    - Statistics & Machine Learining: "ml"
+    - Statistics & Machine Learning: "ml"
   Projects: project.md
 
 ################
