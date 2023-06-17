@@ -5,23 +5,12 @@ title: Machine Learning
 
 **2023**
 
-- **AidData's 5-digit Coding Project**  
-  - <a href="5digitcode.pdf"> Paper </a> coauthored by me and my collegue David Zhu on the Application of FLAN UL2 Model on OECD's Health Sector Data
-  - We built the vector database in Pinecone to store all the embeddings (using SBERT) for health sector data from 1980 to 2020, implemented the whole framework for performing few-shot learning with dynamic retrieval of in-context examples
-  - Improved the model accuracy from 88% to 97% by implementing dynamic retrieval of in-context examples; reducedannotation cost for sectors without training data by implementing fast vote-k selection of annotation
+- **Triangulation and Desity Estimation based DBSCAN Clutering Algorithm**  
+  - We proposed a spatial clustering algorithm for nonlinear data with various density and touching issue (including adjacent problem, neck problem, etc). 
+  - Accepted by 2023 Symposium of Statistics and Data Science to present as a speaker and host poster session
+  - Currently working on developing the algorithm into a python package
 
-- **TRIP (Teaching, Research & International Policy)**
-  - Accomplished prompt engineering on GPT4 API for the autocoding of professor Mike Tierney's TRIP project
-  - Refer to the role-playing framework proposed by <a href="https://arxiv.org/pdf/2303.17760.pdf"> KAUST </a>
+- **MCM: Analysis of Wordle’s score distribution based on word attributes** 
+  -  Create a word difficulty model by training word attributes data using Locally Weighted Regression, Support Vector Regression, and Decision Tree; use GridSearchCV to tune hyperparameters
+  -  Use the word difficulty model to predict the number of score reported in the future and how the percentage of players in hard mode changed based on different word attributes
 
-- **DisinfoLab**
-  - Build a robust synthetic media detector as an AI platform to analyze and flag artificially and digitally generatedmedia
-  - Fully trained two models with high accuracy on the VideoSham dataset; use Meta’s Segment Anything to improve model performance
-  - Integrate Weights & Biases MLOps into BA-TFD+ to track and manage training andtesting
-
-
-**2022**
-
-- **DeepLearning Certificate**
-  - Neural Networks and Deep Learning
-  - Natural Language Processing Specialization
