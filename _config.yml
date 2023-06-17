@@ -20,7 +20,7 @@ author: If you want to contact me, above is my email and Linkedin
 ###############################################
 
 navbar-links:
-  CV: "resume"
+  CV: resume.pdf
   Research:
     - NLP & LLM: "nlp"
     - Statistics & Machine Learning: "ml"
