@@ -5,20 +5,23 @@ title: Machine Learning
 
 **2023**
 
-- **GPU-accelerated Guided Source Separation for Meeting Transcription**  
-  **Desh Raj**, Daniel Povey, Sanjeev Khudanpur  
-  
+- **AidData's 5-digit Coding Project**  
+  - <a href="5digitcode.pdf"> Paper </a> coauthored by me and my collegue David Zhu on the Application of FLAN UL2 Model on OECD's Health Sector Data
+  - We built the vector database in Pinecone to store all the embeddings (using SBERT) for health sector data from 1980 to 2020, implemented the whole framework for performing few-shot learning with dynamic retrieval of in-context examples
+  - Improved the model accuracy from 88% to 97% by implementing dynamic retrieval of in-context examples; reducedannotation cost for sectors without training data by implementing fast vote-k selection of annotation
 
-- **Anchored Speech Recognition using Neural Transducers**  
-  **Desh Raj**, Junteng Jia, Jay Mahadeokar, Chunyang Wu, Niko Moritz, Xiaohui Zhang, Ozlem Kalinli  
-  *IEEE ICASSP 2023*  
-  [Paper](https://arxiv.org/abs/2210.11588)
+- **TRIP (Teaching, Research & International Policy)**
+  - Accomplished prompt engineering on GPT4 API for the autocoding of professor Mike Tierney's TRIP project
+  - Refer to the role-playing framework proposed by <a href="https://arxiv.org/pdf/2303.17760.pdf"> KAUST </a>
 
-- **Adapting self-supervised models to multi-talker speech recognition using speaker embeddings**  
-  Zili Huang, **Desh Raj**, Paola Garcia, Sanjeev Khudanpur  
-  *IEEE ICASSP 2023*  
+- **DisinfoLab**
+  - Build a robust synthetic media detector as an AI platform to analyze and flag artificially and digitally generatedmedia
+  - Fully trained two models with high accuracy on the VideoSham dataset; use Meta’s Segment Anything to improve model performance
+  - Integrate Weights & Biases MLOps into BA-TFD+ to track and manage training andtesting
+
 
 **2022**
 
-- **Low-Latency Speech Separation Guided Diarization for Telephone Conversations**  
-  Giovanni Morrone, Samuele Cornell, **Desh Raj**, Luca Serafini, Enrico Zovato, Alessio Brutti, Stefano Squartini  
+- **DeepLearning Certificate**
+  - Neural Networks and Deep Learning
+  - Natural Language Processing Specialization
