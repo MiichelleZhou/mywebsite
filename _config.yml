@@ -21,10 +21,10 @@ author: If you want to contact me, above is my email and Linkedin
 
 navbar-links:
   CV: resume.pdf
-  Research:
+  Research & Projects:
     - NLP & LLM: "nlp"
     - Statistics & Machine Learning: "ml"
-  Projects: project.md
+  Gallery: "gallery"
 
 ################
 # --- Logo --- #
